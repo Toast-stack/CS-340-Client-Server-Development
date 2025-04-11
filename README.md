@@ -43,3 +43,6 @@ Computer scientists play a pivotal role in identifying problems, devising effici
 ## Conclusion
 
 The CS-340 Client-Server Development course provided hands-on experience in developing modular, maintainable, and adaptable software solutions. By focusing on best practices in coding and problem-solving, the projects undertaken not only met academic objectives but also equipped me with skills directly applicable to real-world scenarios.
+
+## Liscense
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
